@@ -3,13 +3,14 @@
 [![License](https://img.shields.io/badge/License-Apache-lightgrey.svg?style=flat-square)](https://github.com/nju-websoft/OpenEA/blob/master/LICENSE)
 [![language-python3](https://img.shields.io/badge/Language-Java-yellow.svg?style=flat-square)](https://www.python.org/)
 
-This is the source code of the `paper 'Approximation Algorithms for the
+This is the source code of the paper 'Approximation Algorithms for the
 Quadratic Group Steiner Tree Problem'.
 
 ## Directory Structure
 Directory /src/main/java contains all the source code based on JDK 11.
 
 + Directory /src/main/java/graphtheory contains our implementation of algorithms
+
   'SemKSG' is the implementation of our proposed algorithms
 
   'DPBF' is the implementation of DPBF
@@ -17,6 +18,7 @@ Directory /src/main/java contains all the source code based on JDK 11.
   'B3F' is the implementation of B$^3$F
 
 + Directory /src/main/java/driver includes some classes to conduct our experiment
+
   'data' is used to generate dataset
 
   'work' is used to call our algorithms
@@ -73,7 +75,7 @@ The above command would cost a lot of time. Set `DEBUG=TRUE` if you are concerne
 
 ### Run Algorithm
 
-Our algorithm will be run to answer the queries stored in database.
+Our algorithms will be run to answer the queries stored in database.
 
 First fill `my.properties` according to the instruction inside. Specifically, some variables should be set in the following way:
 
@@ -95,3 +97,6 @@ java -cp target/QGSTP-jar-with-dependencies.jar:. driver.work.Run -c my.properti
 
 ## License
 This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details
+
+## Citation
+If you think our algorithms or our experimental results are useful, please kindly cite our paper.
