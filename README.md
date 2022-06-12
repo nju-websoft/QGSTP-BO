@@ -46,6 +46,8 @@ mvn clean package
 #### Dataset
 Our dataset is available from [DropBox](https://www.dropbox.com/sh/025goup8bi2xjim/AAD0lzaUnWiBcBE3c-vQuOHoa?dl=0), [Onedrive](https://1drv.ms/u/s!AhmzTJHXbVtegmZHH0OMfjGrZX2S?e=MUxQfK) and [Baidu Wangpan](https://pan.baidu.com/s/1Iu0Zt2SMWmTsEWZGOV18zg?pwd=m5xm) (password: m5xm).
 
+*ps: dbpedia_6m corresponds to DBP5M in our paper*
+
 Import the data to your mysql database.
 
 #### Generate Hub Label
