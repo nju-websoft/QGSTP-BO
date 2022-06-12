@@ -1,0 +1,9 @@
+/target
+/data
+/.idea
+/test
+*.log
+*.out
+my.properties
+*.ttl
+*.txt
