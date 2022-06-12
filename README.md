@@ -57,7 +57,7 @@ To run our algorithms, Hub Label should be built ahead. Take `dbpedia_50k` as an
 Copy a configure file.
 
 ```shell
-cp .\src\main\resources\config.properties my.properties
+cp ./src/main/resources/config.properties my.properties
 ```
 
 Assign variables `IP`, `PORT`, `USER` and `PASS` in `my.properties` to connect your database.
