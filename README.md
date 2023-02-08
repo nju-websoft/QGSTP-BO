@@ -1,7 +1,7 @@
 # Approximation Algorithms for the Quadratic Group Steiner Tree Problem
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/nju-websoft/OpenEA/issues)
-[![License](https://img.shields.io/badge/License-Apache-lightgrey.svg?style=flat-square)](https://github.com/nju-websoft/OpenEA/blob/master/LICENSE)
-[![language-python3](https://img.shields.io/badge/Language-Java-yellow.svg?style=flat-square)](https://www.python.org/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/nju-websoft/QGSTP-BO/issues)
+[![License](https://img.shields.io/badge/License-Apache-lightgrey.svg?style=flat-square)](https://github.com/nju-websoft/QGSTP-BO/blob/main/LICENSE)
+[![language-python3](https://img.shields.io/badge/Language-Java-yellow.svg?style=flat-square)](https://www.java.com/)
 
 This is the source code of the paper 'Approximation Algorithms for the
 Quadratic Group Steiner Tree Problem'.
